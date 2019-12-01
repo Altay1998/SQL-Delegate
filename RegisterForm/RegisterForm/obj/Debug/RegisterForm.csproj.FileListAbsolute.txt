@@ -1,0 +1,11 @@
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe.config
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\bin\Debug\RegisterForm.exe
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\bin\Debug\RegisterForm.pdb
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csprojAssemblyReference.cache
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Form1.resources
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.Properties.Resources.resources
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.GenerateResource.cache
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.exe
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.pdb
+C:\Users\AltayIa\source\repos\RegisterForm\RegisterForm\obj\Debug\RegisterForm.NewForm.resources
